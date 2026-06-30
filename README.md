@@ -30,6 +30,6 @@ Docker
 
 CodePath Intermediate Cybersecurity
 
-TryHackMe guided learning path
+TryHackMe guided learning patg
 
-Rutgers coursework in IT, Computer Science, and Business
+Rutgers coursework in IT & CS
