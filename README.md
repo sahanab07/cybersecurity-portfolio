@@ -22,6 +22,10 @@ Wireshark
 
 Snort
 
+Nmap
+
+Hydra
+
 VirusTotal
 
 Docker
