@@ -34,6 +34,6 @@ Docker
 
 CodePath Intermediate Cybersecurity
 
-TryHackMe guided learning patg
+TryHackMe guided labs
 
 Rutgers coursework in IT & CS
