@@ -18,13 +18,7 @@ Threat Analysis
 
 ## Tools
 
-Splunk Enterprise
-
 Wireshark
-
-Nmap
-
-Hydra
 
 Snort
 
