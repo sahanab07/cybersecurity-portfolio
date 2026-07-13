@@ -20,6 +20,14 @@ The goal of this project was to practice using a Security Information and Event 
 * Splunk Search Processing Language (SPL)
 * Docker
 
+## Process
+
+1. Accessed the Splunk lab environment and reviewed available datasets.
+2. Used SPL queries to search and filter indexed data.
+3. Applied fields and conditions to narrow investigation results.
+4. Used statistical commands to analyze data patterns and identify answers.
+5. Documented query approaches and findings during the investigation.
+
 ## Skills
 
 * Security Information and Event Management (SIEM)
@@ -28,14 +36,6 @@ The goal of this project was to practice using a Security Information and Event 
 * Data Filtering and Investigation
 * Event Searching
 * Threat Investigation Workflow
-
-## Process
-
-1. Accessed the Splunk lab environment and reviewed available datasets.
-2. Used SPL queries to search and filter indexed data.
-3. Applied fields and conditions to narrow investigation results.
-4. Used statistical commands to analyze data patterns and identify answers.
-5. Documented query approaches and findings during the investigation.
 
 ## Lessons Learned
 
