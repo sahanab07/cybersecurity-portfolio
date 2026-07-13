@@ -12,10 +12,6 @@ This project documents a simulated Business Email Compromise (BEC) investigation
 * Examine SMTP headers and packet metadata.
 * Practice documenting a cybersecurity investigation.
 
-## Scenario
-
-In this simulated investigation, a company suspected a Business Email Compromise (BEC) attack after employees received suspicious emails. My task was to analyze the provided PCAP files, identify phishing activity, and investigate the origin of the malicious email campaign using Wireshark.
-
 ## Tools
 
 * Wireshark
