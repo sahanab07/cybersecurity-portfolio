@@ -27,6 +27,3 @@ I'm passionate about Blue Team security, digital forensics, incident response, a
 ## Projects
 
 - Wireshark Phishing Investigation
-- Linux Security Lab
-- Network Reconnaissance
-- Splunk Log Investigation
