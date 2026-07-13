@@ -40,17 +40,6 @@ This project documents a simulated Business Email Compromise (BEC) investigation
 * Indicator of Compromise (IOC) Identification
 * Technical Documentation
 
-## Screenshots
-
-> Add screenshots of your investigation here, such as:
->
-> * Opening a PCAP file in Wireshark
-> * Applying the `smtp` display filter
-> * Examining SMTP packet details
-> * Reviewing email header information
->
-> Include a short caption below each screenshot explaining what it shows.
-
 ## Lessons Learned
 
 This project strengthened my understanding of network packet analysis and phishing investigations. I learned how Wireshark can be used to inspect SMTP traffic, analyze email metadata, and support a structured investigation. I also became more comfortable navigating a virtual machine environment and using display filters to efficiently locate relevant network traffic.
