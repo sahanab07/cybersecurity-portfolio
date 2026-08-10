@@ -6,3 +6,4 @@ Welcome! This repository serves as an index of my cybersecurity projects.
 
 - Wireshark Phishing Investigation
 - Splunk SIEM CTF
+- Malwayre Incident Response
